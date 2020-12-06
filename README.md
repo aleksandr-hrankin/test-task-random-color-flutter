@@ -1,6 +1,7 @@
 # random_background_color
 
-A new Flutter application.
+![true](https://raw.githubusercontent.com/aleksandr-hrankin/pictures/main/test-task-random-color-flutter.gif)
+
 
 ## Getting Started
 
